@@ -1,0 +1,15 @@
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.csproj.AssemblyReference.cache
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.AssemblyInfoInputs.cache
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.AssemblyInfo.cs
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\bin\Debug\net7.0\UDP_Socket_Programming_Examples.exe
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\bin\Debug\net7.0\UDP_Socket_Programming_Examples.deps.json
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\bin\Debug\net7.0\UDP_Socket_Programming_Examples.runtimeconfig.json
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\bin\Debug\net7.0\UDP_Socket_Programming_Examples.dll
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\bin\Debug\net7.0\UDP_Socket_Programming_Examples.pdb
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.dll
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\refint\UDP_Socket_Programming_Examples.dll
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.pdb
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\UDP_Socket_Programming_Examples.genruntimeconfig.cache
+C:\Users\Alican\source\repos\UDP_Socket_Programming_Examples\UDP_Socket_Programming_Examples\obj\Debug\net7.0\ref\UDP_Socket_Programming_Examples.dll
